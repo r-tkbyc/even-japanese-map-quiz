@@ -36,6 +36,10 @@ Developed and tested on Android. iOS should work (same ring-input pattern as my 
 
 - Capital-city mode: same silhouettes, answered with the prefectural capital instead (planned for a near-future update)
 
+## Community
+
+Questions, feedback, or just your score — the app's thread on the Even Realities Discord: [Japan Map Quiz](https://discord.com/channels/1301124787740868620/1522969012064096428)
+
 ## About this repository
 
 This repo hosts the built web bundle of the app (G2 apps are HTML/JS served inside the Even App).
